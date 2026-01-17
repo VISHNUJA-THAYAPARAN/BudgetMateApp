@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Main Colors -->
+    <color name="colorPrimary">#FFFFFF</color>  <!-- App Background White -->
+    <color name="colorSecondary">#505666</color>  <!-- Buttons Dark Gray -->
+    <color name="colorAccent">#D3D3D3</color>  <!-- Input Box Light Gray Border -->
+
+    <!-- Text & Background -->
+    <color name="textColorPrimary">#505666</color>  <!-- Text Color Dark Gray -->
+    <color name="backgroundColor">#FAFAFA</color>  <!-- Card / Secondary BG -->
+
+    <!-- Buttons Special -->
+    <color name="colorGreen">#243225</color>  <!-- Cash In Button Dark Green -->
+    <color name="colorRed">#950606</color>  <!-- Cash Out Button Dark Red -->
+
+    <!-- Basics -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+</resources>
